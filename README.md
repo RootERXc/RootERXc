@@ -37,6 +37,13 @@
   </a>&nbsp
 </div>
 
+<div id="technologies">
+  <h3>В настоящий момент изучаю</h3>
+  <a href="https://www.google.com/search?q=html5" title="html">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
+  </a>&nbsp
+</div>
+
 <!--
 **RootERXc/RootERXc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
