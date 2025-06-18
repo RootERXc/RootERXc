@@ -10,31 +10,31 @@
   <h3>Технологии</h3>
   <a href="https://www.google.com/search?q=html5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
-  </a>
+  </a>&nbsp
   <a href="https://www.google.com/search?q=css3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
-  </a>
+  </a>&nbsp
   <a href="https://www.google.com/search?q=javascript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
-  <a>
+  <a>&nbsp
   <a href="https://www.google.com/search?q=php">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" />
-  </a>
+  </a>&nbsp
   <a href="https://www.google.com/search?q=mysql">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" />
-  </a>
+  </a>&nbsp
   <a href="https://www.google.com/search?q=redis">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" />
-  </a>
+  </a>&nbsp
   <a href="https://www.google.com/search?q=npm">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" />
-  </a>
+  </a>&nbsp
   <a href="https://www.google.com/search?q=nodejs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
-  </a>
+  </a>&nbsp
   <a href="https://www.google.com/search?q=expressjs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
-  </a>
+  </a>&nbsp
 </div>
 
 <!--
