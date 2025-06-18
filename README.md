@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://t.me/RootERXc">Написать в Телеграм</a>
+
 <!--
 **RootERXc/RootERXc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
