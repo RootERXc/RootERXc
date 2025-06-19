@@ -50,6 +50,13 @@
   </a>&nbsp
 </div>
 
+<div>
+  <h3>Пару раз использовал</h3>
+  <a href="https://www.google.com/search?q=html5" title="jquery">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50" />
+  </a>&nbsp
+</div>
+
 <!--
 **RootERXc/RootERXc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
