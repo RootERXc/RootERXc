@@ -45,14 +45,14 @@
 
 <div id="technologies">
   <h3>В настоящий момент изучаю</h3>
-  <a href="https://www.google.com/search?q=html5" title="html">
+  <a href="https://www.google.com/search?q=typescript" title="typescript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
   </a>&nbsp
 </div>
 
 <div>
   <h3>Пару раз использовал</h3>
-  <a href="https://www.google.com/search?q=html5" title="jquery">
+  <a href="https://www.google.com/search?q=jquery" title="jquery">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50" />
   </a>&nbsp
 </div>
