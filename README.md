@@ -18,8 +18,10 @@
   </p>
 </div>
 
+<h3>Технологии</h3>
+
 <div id="technologies">
-  <h3>Технологии</h3>
+  <h4>Уверенно владею</h4>
   <a href="https://www.google.com/search?q=html5" title="html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
   </a>&nbsp
@@ -41,7 +43,7 @@
 </div>
 
 <div id="technologies">
-  <h3>В настоящий момент изучаю</h3>
+  <h4>В настоящий момент изучаю</h4>
   <a href="https://www.google.com/search?q=typescript" title="typescript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
   </a>&nbsp
@@ -60,7 +62,7 @@
 </div>
 
 <div>
-  <h3>Пару раз использовал</h3>
+  <h4>Пару раз использовал</h4>
   <a href="https://www.google.com/search?q=jquery" title="jquery">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50" />
   </a>&nbsp
