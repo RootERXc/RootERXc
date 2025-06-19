@@ -34,6 +34,9 @@
   <a href="https://www.google.com/search?q=php" title="php">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" />
   </a>&nbsp
+  <a href="https://www.google.com/search?q=mysql" title="mysql">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" />
+  </a>&nbsp
 </div>
 
 <div id="technologies">
@@ -52,9 +55,6 @@
   </a>&nbsp
   <a href="https://www.google.com/search?q=expressjs" title="expressjs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
-  </a>&nbsp
-  <a href="https://www.google.com/search?q=mysql" title="mysql">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" />
   </a>&nbsp
   <a href="https://www.google.com/search?q=bootstrap" title="bootstrap">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" />
