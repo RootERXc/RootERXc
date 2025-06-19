@@ -7,9 +7,15 @@
 </div>
 
 <div id="contacts">
-  <h3>Контакты</h3>
-  <a href="mailto:nikita.kupriyanov.05@mail.ru">Отправить письмо</a><br>
-  <a href="https://t.me/RootERXc">Написать в Телеграм</a>
+  <h3>Как связаться со мной?</h3>
+  <p>
+    Отправить письмо по адресу
+    <a href="mailto:nikita.kupriyanov.05@mail.ru">nikita.kupriyanov.05@mail.ru</a>
+  </p>
+  <p>
+    Написать в Телеграм
+    <a href="https://t.me/RootERXc">RootERXc</a>
+  </p>
 </div>
 
 <div id="technologies">
@@ -40,6 +46,9 @@
   </a>&nbsp
   <a href="https://www.google.com/search?q=expressjs" title="expressjs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
+  </a>&nbsp
+  <a href="https://www.google.com/search?q=bootstrap" title="bootstrap">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" />
   </a>&nbsp
 </div>
 
