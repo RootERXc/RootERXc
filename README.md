@@ -3,6 +3,8 @@
 ## Hi there 👋
 
 <div id="contacts">
+  <h3>Контакты</h3>
+  <a href="mailto:nikita.kupriyanov.05@mail.ru">Отправить письмо</a><br>
   <a href="https://t.me/RootERXc">Написать в Телеграм</a>
 </div>
 
