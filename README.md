@@ -35,6 +35,16 @@
   <a href="https://www.google.com/search?q=mysql" title="mysql">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" />
   </a>&nbsp
+  <a href="https://www.google.com/search?q=bootstrap" title="bootstrap">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" />
+  </a>&nbsp
+</div>
+
+<div id="technologies">
+  <h3>В настоящий момент изучаю</h3>
+  <a href="https://www.google.com/search?q=typescript" title="typescript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
+  </a>&nbsp
   <a href="https://www.google.com/search?q=redis" title="redis">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" />
   </a>&nbsp
@@ -46,16 +56,6 @@
   </a>&nbsp
   <a href="https://www.google.com/search?q=expressjs" title="expressjs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
-  </a>&nbsp
-  <a href="https://www.google.com/search?q=bootstrap" title="bootstrap">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" />
-  </a>&nbsp
-</div>
-
-<div id="technologies">
-  <h3>В настоящий момент изучаю</h3>
-  <a href="https://www.google.com/search?q=typescript" title="typescript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
   </a>&nbsp
 </div>
 
