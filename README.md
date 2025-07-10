@@ -69,15 +69,18 @@
   </a>&nbsp
 </div>
 
-<h3>Шпоры</h3>
+<h3>&laquoШпаргалки&raquo</h3>
 
 <div>
   <h4>PHP</h4>
   <a href="https://www.php.net/manual/ru/types.comparisons.php">
     Таблицы сравнения типов
   </a><br>
-  <a href="https://www.php.net/manual/en/language.operators.php">
+<!--   <a href="https://www.php.net/manual/en/language.operators.php">
     Операторы
+  </a><br> -->
+  <a href="https://www.php.net/manual/ru/reserved.constants.php">
+    Предопределённые константы
   </a>
 </div>
 
