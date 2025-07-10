@@ -69,6 +69,18 @@
   </a>&nbsp
 </div>
 
+<h3>Шпоры</h3>
+
+<div>
+  <h4>PHP</h4>
+  <a href="https://www.php.net/manual/ru/types.comparisons.php">
+    Операторы
+  </a><br>
+  <a href="https://www.php.net/manual/en/language.operators.php">
+    Таблицы сравнения типов
+  </a>
+</div>
+
 <!--
 **RootERXc/RootERXc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
