@@ -74,10 +74,10 @@
 <div>
   <h4>PHP</h4>
   <a href="https://www.php.net/manual/ru/types.comparisons.php">
-    Операторы
+    Таблицы сравнения типов
   </a><br>
   <a href="https://www.php.net/manual/en/language.operators.php">
-    Таблицы сравнения типов
+    Операторы
   </a>
 </div>
 
