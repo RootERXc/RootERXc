@@ -1,14 +1,14 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-## Hi there 👋
+# Никита Куприянов
 
+## Мое образование
 <div id="about-me">
-  <h3>Мое образование</h3>
   <p>Среднее-специальное: Разработчик Веб и Мультимедийных Приложений в 09.02.07 Информационные Системы и Программирование</p>
 </div>
 
+## Как связаться со мной?
 <div id="contacts">
-  <h3>Как связаться со мной?</h3>
   <p>
     Отправить письмо по адресу
     <a href="mailto:nikita.kupriyanov.05@mail.ru">nikita.kupriyanov.05@mail.ru</a>
@@ -19,8 +19,7 @@
   </p>
 </div>
 
-<h3>Технологии</h3>
-
+## Технологии
 <div id="technologies">
   <h4>Владею</h4>
   <a href="https://www.google.com/search?q=html5" title="html">
@@ -70,7 +69,6 @@
 </div>
 
 <h3>&laquoШпаргалки&raquo</h3>
-
 <div>
   <h4>PHP</h4>
   <a href="https://www.php.net/manual/ru/types.comparisons.php">
