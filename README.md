@@ -4,7 +4,7 @@
 
 ## Мое образование
 <div id="about-me">
-  <p>Среднее-специальное: Разработчик Веб и Мультимедийных Приложений в 09.02.07 Информационные Системы и Программирование</p>
+  <p><span>(2025г.)</span> Среднее-специальное: Разработчик Веб и Мультимедийных Приложений в 09.02.07 Информационные Системы и Программирование</p>
 </div>
 
 ## Как связаться со мной?
@@ -43,32 +43,6 @@
   <a href="https://www.google.com/search?q=Битрикс24" title="Битрикс24">
     <img src="https://www.bitrix24.ru/favicon.svg" width="50" />
   </a>
-</div>
-
-<div id="technologies">
-<!--   <h4>Изучаю</h4> -->
-<!--   <a href="https://www.google.com/search?q=typescript" title="typescript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
-  </a>&nbsp -->
-<!--   <a href="https://www.google.com/search?q=redis" title="redis">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" />
-  </a>&nbsp
-  <a href="https://www.google.com/search?q=npm" title="npm">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" />
-  </a>&nbsp
-  <a href="https://www.google.com/search?q=nodejs" title="nodejs">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
-  </a>&nbsp
-  <a href="https://www.google.com/search?q=expressjs" title="expressjs">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
-  </a>&nbsp -->
-</div>
-
-<div>
-<!--   <h4>Пару раз использовал</h4> -->
-<!--   <a href="https://www.google.com/search?q=jquery" title="jquery">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50" />
-  </a>&nbsp -->
 </div>
 
 ## Дорожные карты
