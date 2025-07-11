@@ -40,6 +40,9 @@
   <a href="https://www.google.com/search?q=bootstrap" title="Bootstrap">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" />
   </a>&nbsp
+  <a href="https://www.google.com/search?q=Битрикс24" title="Битрикс24">
+    <img src="https://www.bitrix24.ru/favicon.svg" width="50" />
+  </a>
 </div>
 
 <div id="technologies">
