@@ -73,7 +73,7 @@
   <a href="https://roadmap.sh/php?s=66c7252c92ec1a8a73b3c59e">PHP</a>&nbsp
 </div>
 
-<h3>&laquoШпаргалки&raquo</h3>
+## «Шпаргалки»
 <div>
   <h4>PHP</h4>
   <a href="https://www.php.net/manual/ru/types.comparisons.php">
