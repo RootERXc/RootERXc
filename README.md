@@ -68,7 +68,7 @@
   </a>&nbsp -->
 </div>
 
-## Прогресс по изучению технологий
+## Дорожные карты
 <div id="progress">
   <a href="https://roadmap.sh/php?s=66c7252c92ec1a8a73b3c59e">PHP</a>&nbsp
 </div>
