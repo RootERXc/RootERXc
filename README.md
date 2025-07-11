@@ -70,9 +70,7 @@
 
 ## Прогресс по изучению технологий
 <div id="progress">
-  <a href="https://roadmap.sh/php?s=66c7252c92ec1a8a73b3c59e">
-    PHP
-  </a>&nbsp
+  <a href="https://roadmap.sh/php?s=66c7252c92ec1a8a73b3c59e">PHP</a>&nbsp
 </div>
 
 <h3>&laquoШпаргалки&raquo</h3>
