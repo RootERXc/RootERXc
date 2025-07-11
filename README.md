@@ -83,9 +83,6 @@
       <a href="https://www.php.net/manual/ru/types.comparisons.php">
         Таблицы сравнения типов
       </a><br>
-      <a href="https://www.php.net/manual/ru/reserved.constants.php">
-        Предопределённые константы
-      </a><br>
       <a href="https://www.php.net/manual/ru/reserved.php">
         Список зарезервированных слов
       </a>
