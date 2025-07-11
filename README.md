@@ -19,9 +19,9 @@
   </p>
 </div>
 
-## Технологии
+## Hard Skills
 <div id="technologies">
-  <h4>Владею</h4>
+<!--   <h4>Владею</h4> -->
   <a href="https://www.google.com/search?q=html5" title="html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
   </a>&nbsp
@@ -43,11 +43,11 @@
 </div>
 
 <div id="technologies">
-  <h4>Изучаю</h4>
+<!--   <h4>Изучаю</h4> -->
 <!--   <a href="https://www.google.com/search?q=typescript" title="typescript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
   </a>&nbsp -->
-  <a href="https://www.google.com/search?q=redis" title="redis">
+<!--   <a href="https://www.google.com/search?q=redis" title="redis">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" />
   </a>&nbsp
   <a href="https://www.google.com/search?q=npm" title="npm">
@@ -58,13 +58,20 @@
   </a>&nbsp
   <a href="https://www.google.com/search?q=expressjs" title="expressjs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
-  </a>&nbsp
+  </a>&nbsp -->
 </div>
 
 <div>
-  <h4>Пару раз использовал</h4>
-  <a href="https://www.google.com/search?q=jquery" title="jquery">
+<!--   <h4>Пару раз использовал</h4> -->
+<!--   <a href="https://www.google.com/search?q=jquery" title="jquery">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50" />
+  </a>&nbsp -->
+</div>
+
+## Прогресс по изучению технологий
+<div id="progress">
+  <a href="https://roadmap.sh/php?s=66c7252c92ec1a8a73b3c59e" target="_blank">
+    PHP
   </a>&nbsp
 </div>
 
