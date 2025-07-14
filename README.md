@@ -78,7 +78,7 @@
       Другое
     </th>
     <td>
-      <a href="https://www.php.net/manual/ru/types.comparisons.php">
+      <a href="https://habr.com/ru/articles/210288/">
         Шаблоны проектирования
       </a>
     </td>
