@@ -73,6 +73,16 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <th>
+      Другое
+    </th>
+    <td>
+      <a href="https://www.php.net/manual/ru/types.comparisons.php">
+        Шаблоны проектирования
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!--
