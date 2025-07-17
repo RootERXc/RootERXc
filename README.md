@@ -70,6 +70,9 @@
       </a><br>
       <a href="https://www.php.net/manual/ru/reserved.php">
         Список зарезервированных слов
+      </a><br>
+      <a href="https://github.com/user-attachments/assets/20a44e64-5b26-4b92-8e2d-69885023f820">
+        Дата и время
       </a>
     </td>
   </tr>
