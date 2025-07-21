@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="50" title="PHP" />&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" title="MySQL" />&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" title="Bootstrap"/>&nbsp
-  <img src="https://www.bitrix24.ru/favicon.svg" alt="Битрикс24" width="50" title="Битрикс24" />
+<!--   <img src="https://www.bitrix24.ru/favicon.svg" alt="Битрикс24" width="50" title="Битрикс24" /> -->
 <!--   <a href="https://www.google.com/search?q=html5" title="HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
   </a>&nbsp
