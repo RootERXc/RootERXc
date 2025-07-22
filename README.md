@@ -78,6 +78,16 @@
   </tr>
   <tr>
     <th>
+      Github
+    </th>
+    <td>
+      <a href="https://github.com/github/gitignore">
+        Список примеров .gitignore файлов
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>
       Другое
     </th>
     <td>
